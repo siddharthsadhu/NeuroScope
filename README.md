@@ -21,6 +21,11 @@
 </div>
 
 ---
+### 🚀 Live Demo
+
+👉 **[Open NeuroScope Live](https://neuroscope-v2.streamlit.app/)**
+
+> Explore the deployed Streamlit application without installing anything locally.
 
 ## 🌟 Why NeuroScope Exists
 
